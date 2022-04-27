@@ -9,5 +9,5 @@
  * @author usuario
  */
 public class ClaseIsmael {
-    String despedida="Adios";
+    String despedida="Adios...";
 }
