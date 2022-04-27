@@ -10,4 +10,5 @@
  */
 public class ClaseManuel {
     String saludo="Muy buenas tardes";
+    int n=8;
 }
