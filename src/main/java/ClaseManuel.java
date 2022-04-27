@@ -9,6 +9,6 @@
  * @author usuario
  */
 public class ClaseManuel {
-    String saludo="Muy buenas tardes";
+    double a=0.2;
     int n=8;
 }
